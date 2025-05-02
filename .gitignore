@@ -1,0 +1,6 @@
+.venv/
+*.pyc
+.env/
+__pycache__/
+lib/python*/site-packages/
+.lib/
